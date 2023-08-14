@@ -1,10 +1,10 @@
-package com.earlybird;
+package com.earlybird.earlybird;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EarlyBirdApplicationTests {
+class EarlybirdApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,11 @@
-package com.earlybird;
+package com.earlybird.earlybird;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EarlyBirdApplication {
-
+public class EarlybirdApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(EarlyBirdApplication.class, args);
+		SpringApplication.run(EarlybirdApplication.class, args);
 	}
-
 }
