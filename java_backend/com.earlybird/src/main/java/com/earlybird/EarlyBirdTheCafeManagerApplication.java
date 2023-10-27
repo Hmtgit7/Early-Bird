@@ -1,11 +1,13 @@
-package com.earlybird.earlybird;
+package com.earlybird;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EarlybirdApplication {
+public class EarlyBirdTheCafeManagerApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(EarlybirdApplication.class, args);
+		SpringApplication.run(EarlyBirdTheCafeManagerApplication.class, args);
 	}
+
 }
