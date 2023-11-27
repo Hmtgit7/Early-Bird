@@ -1,13 +1,13 @@
-package com.earlybird;
+package com.inn.cafe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EarlyBirdTheCafeManagerApplication {
+public class EarlyBirdCafeManagementSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EarlyBirdTheCafeManagerApplication.class, args);
+		SpringApplication.run(EarlyBirdCafeManagementSystemApplication.class, args);
 	}
 
 }
